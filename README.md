@@ -1,2 +1,1 @@
-S# linked-list
-DCVFCVVV
+S2 Lab programs
